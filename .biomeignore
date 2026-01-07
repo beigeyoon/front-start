@@ -1,6 +1,18 @@
-node_modules
-dist
-build
-out
-coverage
-.next
+# Dependencies
+node_modules/
+
+# Build outputs
+dist/
+build/
+out/
+.next/
+
+# Testing
+coverage/
+
+# CSS files (Tailwind v4 syntax not fully supported)
+**/*.css
+
+# Lock files (optional, if you want to ignore them)
+# pnpm-lock.yaml
+

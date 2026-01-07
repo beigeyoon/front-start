@@ -1,0 +1,16 @@
+{
+  "name": "@front-start/server",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "echo 'Server dev script - implement your server here'",
+    "build": "echo 'Server build script - implement your server here'",
+    "start": "echo 'Server start script - implement your server here'"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "@types/node": "^20",
+    "typescript": "^5"
+  }
+}
